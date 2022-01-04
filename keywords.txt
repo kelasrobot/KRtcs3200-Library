@@ -1,0 +1,4 @@
+KRtcs3200	KEYWORD1
+getRed      KEYWORD2
+getBlue     KEYWORD2
+getGreen    KEYWORD2
